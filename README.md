@@ -1,4 +1,4 @@
-# Quiz / Mini Project
+# Tugas Quiz / Mini Project
 
 Nama  : Agym Mahaputra R. B <br>
 NIM   : F55121076 <br>
